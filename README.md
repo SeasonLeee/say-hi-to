@@ -18,3 +18,11 @@ console.log(result);
 ```
 
 
+Ps, I followed this tutorial:
+[Tutorial](https://dev.to/therealdanvega/creating-your-first-npm-package-2ehf)
+
+Later I might update this with my personal experience of how to do it...
+
+But it will be basically the same thing...
+
+So, I might not do it😅😝
